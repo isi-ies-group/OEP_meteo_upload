@@ -3,7 +3,7 @@ import pandas as pd
 from IPython.core.display import HTML
 import os
 # 
-# 
+# written by Guillermo Matas (TFG)
 # oedb
 oep_url= 'https://openenergy-platform.org/'
 
