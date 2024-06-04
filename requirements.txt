@@ -14,4 +14,4 @@ pandas == 1.0.1
 # esquema_escritura_tabla.py: 1
 # prueba1.py: 1
 # token.py: 1
-requests == 2.22.0
+requests == 2.32.0
